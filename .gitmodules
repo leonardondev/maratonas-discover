@@ -1,0 +1,3 @@
+[submodule "dev-finances"]
+	path = dev-finances
+	url = ./dev-finances
